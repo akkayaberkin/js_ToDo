@@ -1,0 +1,41 @@
+#header{
+    font-size : 25px;
+    text-align: center;
+}
+.card-header{
+    text-align: center;
+}
+a{
+    color:white;
+}
+.textdiv{
+    float: left;
+    margin-right: 200px;
+    width:150px;
+    height:15px;
+    padding-left: 6%;
+}
+.textt{
+  padding-left: 40%;
+  color: brown;
+}
+.succesText{
+    padding-left: 40%;
+  color: green;
+}
+.btn {
+    
+    width:150px;
+    height:40px;
+    margin-right:5%;
+}
+#btnDeleteAll{
+    margin: 0%;
+}
+
+#cancel{
+    float: right;
+    margin: 0%;
+    width:70px;
+    height:40px;
+}
